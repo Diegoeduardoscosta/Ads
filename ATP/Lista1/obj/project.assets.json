@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\OneDrive - sga.pucminas.br\\ADS - PUC BAR\\GIT e GITHUB\\Ads\\ATP\\Lista 1\\Lista 1.csproj",
-      "projectName": "Lista 1",
-      "projectPath": "C:\\Users\\Diego\\OneDrive - sga.pucminas.br\\ADS - PUC BAR\\GIT e GITHUB\\Ads\\ATP\\Lista 1\\Lista 1.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\OneDrive - sga.pucminas.br\\ADS - PUC BAR\\GIT e GITHUB\\Ads\\ATP\\Lista1\\Lista1.csproj",
+      "projectName": "Lista1",
+      "projectPath": "C:\\Users\\Diego\\OneDrive - sga.pucminas.br\\ADS - PUC BAR\\GIT e GITHUB\\Ads\\ATP\\Lista1\\Lista1.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\OneDrive - sga.pucminas.br\\ADS - PUC BAR\\GIT e GITHUB\\Ads\\ATP\\Lista 1\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\OneDrive - sga.pucminas.br\\ADS - PUC BAR\\GIT e GITHUB\\Ads\\ATP\\Lista1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
