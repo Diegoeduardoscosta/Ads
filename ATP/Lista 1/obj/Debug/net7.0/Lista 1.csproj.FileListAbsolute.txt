@@ -1,0 +1,15 @@
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\bin\Debug\net7.0\Lista 1.exe
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\bin\Debug\net7.0\Lista 1.deps.json
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\bin\Debug\net7.0\Lista 1.runtimeconfig.json
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\bin\Debug\net7.0\Lista 1.dll
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\bin\Debug\net7.0\Lista 1.pdb
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.csproj.AssemblyReference.cache
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.AssemblyInfo.cs
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.dll
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\refint\Lista 1.dll
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.pdb
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\Lista 1.genruntimeconfig.cache
+C:\Users\Diego\OneDrive - sga.pucminas.br\ADS - PUC BAR\GIT e GITHUB\Ads\ATP\Lista 1\obj\Debug\net7.0\ref\Lista 1.dll
