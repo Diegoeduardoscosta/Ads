@@ -8,7 +8,7 @@ namespace Lista1
          static void Main(string [] args)
         {
             Console.WriteLine("Segunda Execução");
-
+            NewClass
         }
     }
     
